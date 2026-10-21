@@ -1,0 +1,9 @@
+[project]
+name = "stock-price-predictor"
+version = "1.0.0"
+description = "Stock price prediction using historical market data and machine learning"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
