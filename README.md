@@ -35,10 +35,10 @@ The evaluation uses a chronological holdout rather than randomly shuffling time-
 ## Team roles
 
 See [`TEAM_ROLES.md`](TEAM_ROLES.md) for the initial four-role allocation:
-- Sabarinathan R - Team Leader
-- Abinaya R - Member 1 - Analyst
-- Sandhiya S - Member 2 - Developer
-- Suriyaprakash H - Member 3 - Tester
+- Sabarinathan R -  Team Leader
+- Abinaya R -       Member 1 -  Analyst
+- Sandhiya S -      Member 2 -  Developer
+- Suriyaprakash H - Member 3 -  Tester
 
 These are role labels, not real names or proof of contribution. Update the allocation to reflect the work actually performed.
 
