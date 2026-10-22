@@ -23,7 +23,7 @@ if "results" not in st.session_state:
 if run:
     try:
         if mode == "Synthetic demo data":
-            raw = make_sample_data()
+            raw = make_sample_data(period=period)
         elif mode == "Upload historical CSV":
             if uploaded is None:
                 st.error("Upload a CSV file first.")
